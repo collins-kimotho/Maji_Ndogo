@@ -21,7 +21,7 @@ The `md_water_services` database includes 8 interconnected tables with over 60,0
 
 ![ERD Diagram](Maji_Ndogo_ERD.png)
 
-his structure is broadly applicable to public health and infrastructure domains, with temporal elements (e.g., dates in visits), demographic info (e.g., provinces, towns), and performance metrics (e.g., people served, queue times). The ERD was created using MySQL Workbench for clarity.
+This structure is broadly applicable to public health and infrastructure domains, with temporal elements (e.g., dates in visits), demographic info (e.g., provinces, towns), and performance metrics (e.g., people served, queue times). The ERD was created using MySQL Workbench for clarity.
 
 ## Executive Summary
 
